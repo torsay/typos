@@ -3,7 +3,7 @@ Repository with a lot of typos to practice PRs
 
 Contributng to open sorce projects is dautning, especially if you're not yet confident in your coding skills. One easy way to start contributing is by submitting **typo fixes**.  
 
-The stepss:
+The steps:
 
 1. *Fork* the repository you want to contribute to :fork_and_knife:
 2. Create a *branch* (it's good practice to keep your `master` branch clean and up-to-date with the original repository)
